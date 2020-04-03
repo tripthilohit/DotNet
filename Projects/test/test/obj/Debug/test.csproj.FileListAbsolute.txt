@@ -1,0 +1,10 @@
+/Users/tripthishetty/Projects/test/test/obj/Debug/test.csprojAssemblyReference.cache
+/Users/tripthishetty/Projects/test/test/bin/Debug/test.exe
+/Users/tripthishetty/Projects/test/test/bin/Debug/test.pdb
+/Users/tripthishetty/Projects/test/test/obj/Debug/test.exe
+/Users/tripthishetty/Projects/test/test/obj/Debug/test.pdb
+/Users/tripthishetty/Desktop/DotNetTests/Projects/test/test/obj/Debug/test.csprojAssemblyReference.cache
+/Users/tripthishetty/Desktop/DotNetTests/Projects/test/test/obj/Debug/test.exe
+/Users/tripthishetty/Desktop/DotNetTests/Projects/test/test/obj/Debug/test.pdb
+/Users/tripthishetty/Desktop/DotNetTests/Projects/test/test/bin/Debug/test.exe
+/Users/tripthishetty/Desktop/DotNetTests/Projects/test/test/bin/Debug/test.pdb
