@@ -5,7 +5,7 @@ namespace test
 {
     public class test
     {
-        
+
         public static void Main(string[] args)
         {
             Console.WriteLine("hello");
@@ -44,19 +44,19 @@ namespace test
             //foreach (KeyValuePair<String, List<String>> kvp in studentSubjectMap)
             //{
             //    Console.WriteLine(kvp.Key);
-        
+
             //    foreach (string value in kvp.Value)
             //    {
-                    
+
             //        Console.WriteLine(value+" ");
-                 
+
             //    }
 
             //}
 
-            foreach(var value in studentSubjectMapOutput)
+            foreach (var value in studentSubjectMapOutput)
             {
-                Console.WriteLine("values are "+value.Value);
+                Console.WriteLine("values are " + value.Value);
             }
         }
     }

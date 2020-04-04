@@ -1,0 +1,4 @@
+/Users/tripthishetty/Desktop/DotNetTests/Projects/test/test/Algorithms/bin/Debug/Algorithms.exe
+/Users/tripthishetty/Desktop/DotNetTests/Projects/test/test/Algorithms/bin/Debug/Algorithms.pdb
+/Users/tripthishetty/Desktop/DotNetTests/Projects/test/test/Algorithms/obj/anycpu/Debug/Algorithms.exe
+/Users/tripthishetty/Desktop/DotNetTests/Projects/test/test/Algorithms/obj/anycpu/Debug/Algorithms.pdb
