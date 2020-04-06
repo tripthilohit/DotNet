@@ -10,7 +10,8 @@ namespace test.Algo
             Reverse.reverseWordsSentence("my name is arya");
             Reverse.reverseSentence("my name is arya");
             Reverse.reverseCharWordsInSentence(" my name is arya");
-            Reverse.rev("hello man how are you");
+            Alternatingcharacters.alternatingCharacters("aaaa");
+            FindingAinString.repeatedString("aac", 10);
         }
     }
 }

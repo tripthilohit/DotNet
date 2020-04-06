@@ -24,6 +24,8 @@
     <Compile Include="sumOfTwoNumbers.cs" />
     <Compile Include="main.cs" />
     <Compile Include="reverse.cs" />
+    <Compile Include="alternatingcharacters.cs" />
+    <Compile Include="findingAinString.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
