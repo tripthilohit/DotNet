@@ -26,6 +26,9 @@
     <Compile Include="reverse.cs" />
     <Compile Include="alternatingcharacters.cs" />
     <Compile Include="findingAinString.cs" />
+    <Compile Include="LargestSmallestWordInSentence.cs" />
+    <Compile Include="shortestBinaryPathToFinish.cs" />
+    <Compile Include="CountingValleys.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
