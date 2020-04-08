@@ -29,6 +29,7 @@
     <Compile Include="LargestSmallestWordInSentence.cs" />
     <Compile Include="shortestBinaryPathToFinish.cs" />
     <Compile Include="CountingValleys.cs" />
+    <Compile Include="indexOfSubString.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
