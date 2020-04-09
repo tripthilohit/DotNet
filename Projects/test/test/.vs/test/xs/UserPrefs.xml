@@ -1,17 +1,18 @@
 ﻿<Properties StartupConfiguration="{6B42BCE1-DBC4-410D-9D23-EF3EC08CA989}|Default">
   <MonoDevelop.Ide.ItemProperties.test PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Algorithms PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Algorithms/numberRepeatedSequential.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Algorithms/mostRepeatedNumber.cs">
     <Files>
-      <File FileName="Algorithms/main.cs" Line="20" Column="49" />
-      <File FileName="Algorithms/numberRepeatedSequential.cs" Line="8" Column="10" />
+      <File FileName="Algorithms/main.cs" Line="21" Column="56" />
+      <File FileName="Algorithms/numberRepeatedSequential.cs" Line="23" Column="37" />
+      <File FileName="Algorithms/mostRepeatedNumber.cs" Line="33" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="test" expanded="True">
             <Node name="Algorithms" expanded="True">
-              <Node name="numberRepeatedSequential.cs" selected="True" />
+              <Node name="mostRepeatedNumber.cs" selected="True" />
             </Node>
             <Node name="test" expanded="True">
               <Node name="student1Subjects" expanded="True" />

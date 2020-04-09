@@ -19,6 +19,7 @@ namespace test.Algo
             CountingValleys.countingValleys(4, "DUDU");
             FindIndex.findIndex("abcdef", "cd");
             numberRepeatedSequential.numberRepeatedSeq(1555666677777);
+            MostRepeatedNumber.mostRepeatedNumber(77787999029099098);
         }
     }
 }
