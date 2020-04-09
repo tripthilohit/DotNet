@@ -18,6 +18,7 @@ namespace test.Algo
             ShortestBinaryPathToFinish.shortestBinaryPathToFinish(new int[] { 0, 0, 0 ,0, 1, 0 });
             CountingValleys.countingValleys(4, "DUDU");
             FindIndex.findIndex("abcdef", "cd");
+            numberRepeatedSequential.numberRepeatedSeq(1555666677777);
         }
     }
 }

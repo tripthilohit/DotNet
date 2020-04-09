@@ -1,18 +1,17 @@
 ﻿<Properties StartupConfiguration="{6B42BCE1-DBC4-410D-9D23-EF3EC08CA989}|Default">
   <MonoDevelop.Ide.ItemProperties.test PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Algorithms PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Algorithms/indexOfSubString.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Algorithms/numberRepeatedSequential.cs">
     <Files>
-      <File FileName="Algorithms/main.cs" Line="19" Column="53" />
-      <File FileName="Algorithms/CountingValleys.cs" Line="23" Column="14" />
-      <File FileName="Algorithms/indexOfSubString.cs" Line="35" Column="1" />
+      <File FileName="Algorithms/main.cs" Line="20" Column="49" />
+      <File FileName="Algorithms/numberRepeatedSequential.cs" Line="8" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="test" expanded="True">
             <Node name="Algorithms" expanded="True">
-              <Node name="indexOfSubString.cs" selected="True" />
+              <Node name="numberRepeatedSequential.cs" selected="True" />
             </Node>
             <Node name="test" expanded="True">
               <Node name="student1Subjects" expanded="True" />

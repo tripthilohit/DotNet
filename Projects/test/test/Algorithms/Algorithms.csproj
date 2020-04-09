@@ -30,6 +30,7 @@
     <Compile Include="shortestBinaryPathToFinish.cs" />
     <Compile Include="CountingValleys.cs" />
     <Compile Include="indexOfSubString.cs" />
+    <Compile Include="numberRepeatedSequential.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
