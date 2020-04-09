@@ -20,6 +20,7 @@ namespace test.Algo
             FindIndex.findIndex("abcdef", "cd");
             numberRepeatedSequential.numberRepeatedSeq(1555666677777);
             MostRepeatedNumber.mostRepeatedNumber(77787999029099098);
+            MaximumMoneySpent.getMoneySpent(new int[] { 3, 1 }, new int[] { 5, 2, 8 }, 10);
         }
     }
 }

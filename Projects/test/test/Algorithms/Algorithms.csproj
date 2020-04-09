@@ -32,6 +32,7 @@
     <Compile Include="indexOfSubString.cs" />
     <Compile Include="numberRepeatedSequential.cs" />
     <Compile Include="mostRepeatedNumber.cs" />
+    <Compile Include="maximumMoneySpent.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
