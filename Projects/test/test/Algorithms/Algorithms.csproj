@@ -33,6 +33,8 @@
     <Compile Include="numberRepeatedSequential.cs" />
     <Compile Include="mostRepeatedNumber.cs" />
     <Compile Include="maximumMoneySpent.cs" />
+    <Compile Include="catAndMouse.cs" />
+    <Compile Include="smallestDivisorInGivenThreshold.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
