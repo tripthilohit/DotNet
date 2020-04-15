@@ -35,6 +35,7 @@
     <Compile Include="maximumMoneySpent.cs" />
     <Compile Include="catAndMouse.cs" />
     <Compile Include="smallestDivisorInGivenThreshold.cs" />
+    <Compile Include="uniqueString.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

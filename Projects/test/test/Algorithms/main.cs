@@ -23,6 +23,7 @@ namespace test.Algo
             MaximumMoneySpent.getMoneySpent(new int[] { 3, 1 }, new int[] { 5, 2, 8 }, 10);
             CatAndMouse.catAndMouse(1,3,2);
             SmallestDivisorInGivenThreshold.SmallestDivisor(new int[] { 1, 2, 5, 9 }, 6);
+            UniqueString.uniqueString("abcabcabc");
         }
     }
 }
