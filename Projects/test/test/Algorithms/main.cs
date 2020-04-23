@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace test.Algo
 {
@@ -24,6 +25,9 @@ namespace test.Algo
             CatAndMouse.catAndMouse(1,3,2);
             SmallestDivisorInGivenThreshold.SmallestDivisor(new int[] { 1, 2, 5, 9 }, 6);
             UniqueString.uniqueString("abcabcabc");
+            PickingMaxFromArrayDiff1orLess.pickingNumbers(new List<int> { 4, 6, 5, 3 ,3, 1 });
+            deleteElementIncludingDuplicate.deleteElement(new int[] { 1, 3, 7, 4 }, 7);
+            removeDupesFromArray.removeDupes(new int[] { 1, 1, 1, 7, 3, 3, 4, 5, 6 });
         }
     }
 }

@@ -36,6 +36,9 @@
     <Compile Include="catAndMouse.cs" />
     <Compile Include="smallestDivisorInGivenThreshold.cs" />
     <Compile Include="uniqueString.cs" />
+    <Compile Include="PickingMaxFromArrayDiff1orLess.cs" />
+    <Compile Include="deleteElementIncludingDuplicate.cs" />
+    <Compile Include="removeDupesFromArray.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

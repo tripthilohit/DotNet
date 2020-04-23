@@ -23,7 +23,6 @@ namespace test.Algo
                         
                 }
             }
-     
             Console.WriteLine("The number of characters to remove to make it unique is: " + (s.Length - uniqueString.Count));
         }
        

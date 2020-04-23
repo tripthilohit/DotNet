@@ -1,21 +1,19 @@
 ﻿<Properties StartupConfiguration="{6B42BCE1-DBC4-410D-9D23-EF3EC08CA989}|Default">
   <MonoDevelop.Ide.ItemProperties.test PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Algorithms PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Algorithms/main.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Algorithms/removeDupesFromArray.cs">
     <Files>
-      <File FileName="Algorithms/main.cs" Line="26" Column="52" />
-      <File FileName="Algorithms/uniqueString.cs" Line="18" Column="14" />
+      <File FileName="Algorithms/main.cs" Line="4" Column="20" />
+      <File FileName="Algorithms/removeDupesFromArray.cs" Line="2" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="test" expanded="True">
             <Node name="Algorithms" expanded="True">
-              <Node name="main.cs" selected="True" />
+              <Node name="removeDupesFromArray.cs" selected="True" />
             </Node>
-            <Node name="test" expanded="True">
-              <Node name="student1Subjects" expanded="True" />
-            </Node>
+            <Node name="test" expanded="True" />
           </Node>
         </State>
       </Pad>
