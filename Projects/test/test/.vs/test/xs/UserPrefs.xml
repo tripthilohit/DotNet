@@ -1,19 +1,21 @@
-﻿<Properties StartupConfiguration="{6B42BCE1-DBC4-410D-9D23-EF3EC08CA989}|Default">
+﻿<Properties StartupConfiguration="{9688AF1F-C535-42A5-8274-FDA480CFAFFD}|Default">
   <MonoDevelop.Ide.ItemProperties.test PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Algorithms PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Algorithms/main.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="dictionaryTests/printDictionary.cs">
     <Files>
-      <File FileName="Algorithms/main.cs" Line="31" Column="114" />
-      <File FileName="Algorithms/palindromeString.cs" Line="31" Column="2" />
+      <File FileName="Algorithms/main.cs" Line="32" Column="50" />
+      <File FileName="Algorithms/palindromeString.cs" Line="2" Column="20" />
+      <File FileName="EmptyClass.cs" Line="1" Column="1" />
+      <File FileName="student1Subjects/test.cs" Line="9" Column="28" />
+      <File FileName="dictionaryTests/printDictionary.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="test" expanded="True">
-            <Node name="Algorithms" expanded="True">
-              <Node name="main.cs" selected="True" />
+            <Node name="dictionaryTests" expanded="True">
+              <Node name="printDictionary.cs" selected="True" />
             </Node>
-            <Node name="test" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -25,4 +27,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.dictionaryTests FirstBuild="True" />
 </Properties>

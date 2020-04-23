@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test.csproj", "{968
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "Algorithms\Algorithms.csproj", "{6B42BCE1-DBC4-410D-9D23-EF3EC08CA989}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dictionaryTests", "dictionaryTests\dictionaryTests.csproj", "{2AD48355-3037-4098-A09A-6C3DA7DF28D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -19,5 +21,9 @@ Global
 		{6B42BCE1-DBC4-410D-9D23-EF3EC08CA989}.Debug|anycpu.Build.0 = Debug|anycpu
 		{6B42BCE1-DBC4-410D-9D23-EF3EC08CA989}.Release|anycpu.ActiveCfg = Release|anycpu
 		{6B42BCE1-DBC4-410D-9D23-EF3EC08CA989}.Release|anycpu.Build.0 = Release|anycpu
+		{2AD48355-3037-4098-A09A-6C3DA7DF28D4}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{2AD48355-3037-4098-A09A-6C3DA7DF28D4}.Debug|anycpu.Build.0 = Debug|anycpu
+		{2AD48355-3037-4098-A09A-6C3DA7DF28D4}.Release|anycpu.ActiveCfg = Release|anycpu
+		{2AD48355-3037-4098-A09A-6C3DA7DF28D4}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 EndGlobal

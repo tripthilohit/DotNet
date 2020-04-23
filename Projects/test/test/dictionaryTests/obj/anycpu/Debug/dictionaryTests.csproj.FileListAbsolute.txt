@@ -1,0 +1,4 @@
+/Users/tripthishetty/Desktop/DotNetTests/Projects/test/test/dictionaryTests/bin/Debug/dictionaryTests.exe
+/Users/tripthishetty/Desktop/DotNetTests/Projects/test/test/dictionaryTests/bin/Debug/dictionaryTests.pdb
+/Users/tripthishetty/Desktop/DotNetTests/Projects/test/test/dictionaryTests/obj/anycpu/Debug/dictionaryTests.exe
+/Users/tripthishetty/Desktop/DotNetTests/Projects/test/test/dictionaryTests/obj/anycpu/Debug/dictionaryTests.pdb
