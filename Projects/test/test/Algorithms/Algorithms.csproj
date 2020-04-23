@@ -42,6 +42,7 @@
     <Compile Include="mostRepeatedNumberinArray.cs" />
     <Compile Include="palindromeString.cs" />
     <Compile Include="nthUniqueCharacterInString.cs" />
+    <Compile Include="maxDiffBetweenElements.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -31,6 +31,7 @@ namespace test.Algo
             mostRepeatedNumberinArray.mostRepeatedNumber(new int[] { 1, 2, 5, 3, 21, 8, 22, 21, 1, 1, 1, 1, 1 });
             palindromeString.palindrome("hello");
             nthUniqueCharacterInString.nthUniqueChar("textg", 1);
+            MaxDiffBetweenElements.maxDiffBetweenElements(new List<int> { 7, 3, 1, 15 });
         }
     }
 }
