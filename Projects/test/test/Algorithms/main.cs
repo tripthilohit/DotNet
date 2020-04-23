@@ -28,6 +28,7 @@ namespace test.Algo
             PickingMaxFromArrayDiff1orLess.pickingNumbers(new List<int> { 4, 6, 5, 3 ,3, 1 });
             deleteElementIncludingDuplicate.deleteElement(new int[] { 1, 3, 7, 4 }, 7);
             removeDupesFromArray.removeDupes(new int[] { 1, 1, 1, 7, 3, 3, 4, 5, 6 });
+            mostRepeatedNumberinArray.mostRepeatedNumber(new int[] { 1, 2, 5, 3, 21, 8, 22, 21, 1, 1, 1, 1, 1 });
         }
     }
 }

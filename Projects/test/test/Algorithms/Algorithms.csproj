@@ -39,6 +39,7 @@
     <Compile Include="PickingMaxFromArrayDiff1orLess.cs" />
     <Compile Include="deleteElementIncludingDuplicate.cs" />
     <Compile Include="removeDupesFromArray.cs" />
+    <Compile Include="mostRepeatedNumberinArray.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
