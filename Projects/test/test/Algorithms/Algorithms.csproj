@@ -40,6 +40,7 @@
     <Compile Include="deleteElementIncludingDuplicate.cs" />
     <Compile Include="removeDupesFromArray.cs" />
     <Compile Include="mostRepeatedNumberinArray.cs" />
+    <Compile Include="palindromeString.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
