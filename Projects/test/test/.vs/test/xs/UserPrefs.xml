@@ -1,21 +1,20 @@
-﻿<Properties StartupConfiguration="{9688AF1F-C535-42A5-8274-FDA480CFAFFD}|Default">
+﻿<Properties StartupConfiguration="{2AD48355-3037-4098-A09A-6C3DA7DF28D4}|Default">
   <MonoDevelop.Ide.ItemProperties.test PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Algorithms PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="dictionaryTests/printDictionary.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Algorithms/nthUniqueCharacterInString.cs">
     <Files>
-      <File FileName="Algorithms/main.cs" Line="32" Column="50" />
-      <File FileName="Algorithms/palindromeString.cs" Line="2" Column="20" />
-      <File FileName="EmptyClass.cs" Line="1" Column="1" />
-      <File FileName="student1Subjects/test.cs" Line="9" Column="28" />
-      <File FileName="dictionaryTests/printDictionary.cs" Line="1" Column="1" />
+      <File FileName="Algorithms/main.cs" Line="1" Column="1" />
+      <File FileName="Algorithms/uniqueString.cs" Line="18" Column="41" />
+      <File FileName="Algorithms/nthUniqueCharacterInString.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="test" expanded="True">
-            <Node name="dictionaryTests" expanded="True">
-              <Node name="printDictionary.cs" selected="True" />
+            <Node name="Algorithms" expanded="True">
+              <Node name="nthUniqueCharacterInString.cs" selected="True" />
             </Node>
+            <Node name="dictionaryTests" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -27,5 +26,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.dictionaryTests FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.dictionaryTests PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
