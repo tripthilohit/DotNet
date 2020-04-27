@@ -32,6 +32,8 @@ namespace test.Algo
             palindromeString.palindrome("hello");
             nthUniqueCharacterInString.nthUniqueChar("textg", 1);
             MaxDiffBetweenElements.maxDiffBetweenElements(new List<int> { 7, 3, 1, 15 });
+            CheckDuplicateEntry.dupe(new List<string> { "hahaj", "hajajaj", "aa", "aa", "hajaj" });
+            Factors.factors(12);
         }
     }
 }

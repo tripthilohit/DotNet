@@ -1,19 +1,18 @@
 ﻿<Properties StartupConfiguration="{6B42BCE1-DBC4-410D-9D23-EF3EC08CA989}|Default">
   <MonoDevelop.Ide.ItemProperties.test PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Algorithms PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Algorithms/maxDiffBetweenElements.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Algorithms/factors.cs">
     <Files>
-      <File FileName="Algorithms/main.cs" Line="33" Column="66" />
-      <File FileName="Algorithms/uniqueString.cs" Line="18" Column="41" />
-      <File FileName="Algorithms/nthUniqueCharacterInString.cs" Line="39" Column="8" />
-      <File FileName="Algorithms/maxDiffBetweenElements.cs" Line="22" Column="6" />
+      <File FileName="Algorithms/main.cs" Line="35" Column="33" />
+      <File FileName="Algorithms/checkDuplicateEntry.cs" Line="6" Column="37" />
+      <File FileName="Algorithms/factors.cs" Line="2" Column="15" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="test" expanded="True">
             <Node name="Algorithms" expanded="True">
-              <Node name="maxDiffBetweenElements.cs" selected="True" />
+              <Node name="factors.cs" selected="True" />
             </Node>
             <Node name="dictionaryTests" expanded="True" />
           </Node>

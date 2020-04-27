@@ -43,6 +43,8 @@
     <Compile Include="palindromeString.cs" />
     <Compile Include="nthUniqueCharacterInString.cs" />
     <Compile Include="maxDiffBetweenElements.cs" />
+    <Compile Include="checkDuplicateEntry.cs" />
+    <Compile Include="factors.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
